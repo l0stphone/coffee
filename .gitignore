@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Defined by l0stphone
+*.exe
+*.txt
